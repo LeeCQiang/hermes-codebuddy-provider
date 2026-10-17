@@ -1,0 +1,15 @@
+# credentials
+credentials.json
+.env
+*.token
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+
+# editor / OS
+.DS_Store
+.idea/
+.vscode/
